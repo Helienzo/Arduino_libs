@@ -1,0 +1,11 @@
+GreenRain	KEYWORD1
+rain	KEYWORD2
+backwardRain     KEYWORD2
+rainBaseUp	KEYWORD2
+rainBaseDown	KEYWORD2
+greenPulseUp	KEYWORD2
+greenPulseDown	KEYWORD2
+firstSecond	KEYWORD2
+greenIdiot	KEYWORD2
+greenOff	KEYWORD2
+greenOn	KEYWORD2

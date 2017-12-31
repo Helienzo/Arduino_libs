@@ -1,0 +1,2 @@
+LaserControl	KEYWORD1
+step	KEYWORD2
